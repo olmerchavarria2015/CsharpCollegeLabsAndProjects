@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\bin\Debug\DailySpecial.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\bin\Debug\DailySpecial.exe
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\bin\Debug\DailySpecial.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.exe
+c:\users\admin\documents\visual studio 2015\Projects\DailySpecial\obj\Debug\DailySpecial.pdb
