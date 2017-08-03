@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\bin\Debug\DivingScorer.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\bin\Debug\DivingScorer.exe
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\bin\Debug\DivingScorer.pdb
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.exe
+c:\users\admin\documents\visual studio 2015\Projects\DivingScorer\obj\Debug\DivingScorer.pdb
