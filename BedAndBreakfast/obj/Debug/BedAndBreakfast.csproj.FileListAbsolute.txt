@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\bin\Debug\BedAndBreakfast.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.exe
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.BelleAireForm.resources
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.LincolnForm.resources
+c:\users\admin\documents\visual studio 2015\Projects\BedAndBreakfast\obj\Debug\BedAndBreakfast.BreakfastOptionForm.resources
