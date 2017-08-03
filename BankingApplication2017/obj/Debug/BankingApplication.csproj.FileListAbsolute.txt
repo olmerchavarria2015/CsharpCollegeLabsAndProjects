@@ -1,0 +1,19 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication\obj\Debug\BankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\bin\Debug\BankingApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\bin\Debug\BankingApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\bin\Debug\BankingApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BankingApplication - Copy (3)\obj\Debug\BankingApplication.ReportForm.resources
