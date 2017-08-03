@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\bin\Debug\Income Tax.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\bin\Debug\Income Tax.exe
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\bin\Debug\Income Tax.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\obj\Debug\Income_Tax.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\obj\Debug\Income_Tax.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\obj\Debug\Income Tax.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\obj\Debug\Income Tax.exe
+c:\users\admin\documents\visual studio 2015\Projects\Income Tax\obj\Debug\Income Tax.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Income Tax\obj\Debug\Income Tax.csprojResolveAssemblyReference.cache
