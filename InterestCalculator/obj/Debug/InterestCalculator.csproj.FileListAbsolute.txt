@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\InterestCalculator\obj\Debug\InterestCalculator.pdb
