@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\bin\Debug\PayrollGUI.exe
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\bin\Debug\PayrollGUI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.Payroll.resources
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.exe
+c:\users\admin\documents\visual studio 2015\Projects\PayrollGUI\obj\Debug\PayrollGUI.pdb

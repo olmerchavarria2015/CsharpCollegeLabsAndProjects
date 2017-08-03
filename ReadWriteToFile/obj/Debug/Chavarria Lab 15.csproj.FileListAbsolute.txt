@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\bin\Debug\Chavarria Lab 15.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\bin\Debug\Chavarria Lab 15.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\bin\Debug\Chavarria Lab 15.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria Lab 15.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria_Lab_15.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria_Lab_15.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria Lab 15.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria Lab 15.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chavarria Lab 15\obj\Debug\Chavarria Lab 15.pdb
